@@ -1,0 +1,76 @@
+/* 
+   Localizable.strings
+   iEnum
+
+   Created by Maarten Wullink on 12-05-10.
+   Copyright 2010 SIDN. All rights reserved.
+ */
+
+
+
+
+HOME.TAB.TITLE = "Home";
+HOME.BUTTON.REGISTER = "Register your enum";
+HOME.BUTTON.REGISTER.REGISTRARS.TITLE = "Registrar list";
+HOME.BUTTON.REGISTER.REGISTRARS.URL = "http://www.enum.nl/en/register/list-of-registrars.html";
+
+
+CONTACTS.TAB.TITLE = "Contacts";
+
+CONTACTS.DETAILS.TITLE = "Details";
+
+CONTACT.NUMBER.SELECT.TITLE = "Select number";
+CONTACT.NUMBER.SELECT.HOME = "Home";
+CONTACT.NUMBER.SELECT.HOME.FAX = "Home fax";
+CONTACT.NUMBER.SELECT.MAIN = "Main";
+CONTACT.NUMBER.SELECT.MOBILE = "Mobile";
+CONTACT.NUMBER.SELECT.PAGER = "Pager";
+CONTACT.NUMBER.SELECT.WORK = "Work";
+CONTACT.NUMBER.SELECT.WORK.FAX = "Work fax";
+CONTACT.NUMBER.SELECT.OTHER = "Other";
+
+
+
+LOOKUP.TAB.TITLE = "Search";
+LOOKUP.TAB.DEFAULT.SEARCH.TEXT = "Phonenumber";
+
+SETTINGS.TAB.TITLE = "Settings";
+SETTINGS.BUTTON.SAVE = "Save settings";
+SETTINGS.DNS.SERVER = "DNS server";
+SETTINGS.SUFFIX = "DNS suffix";
+SETTINGS.COUNTRY = "Country code";
+SETTINGS.DNS.SERVER.ENTER = "Enter DNS server";
+SETTINGS.SUFFIX.ENTER = "Enter DNS suffix";
+SETTINGS.COUNTRY.ENTER = "Enter country code";
+
+
+CONTACT.DETAILS.TAB.SERVICES = "Services";
+CONTACT.DETAILS.TAB.WEB.LOC = "Web locations";
+CONTACT.DETAILS.TAB.SEC.EMAIL = "Secure email";
+CONTACT.DETAILS.TAB.ADDRESS = "Address (vcard)";
+CONTACT.DETAILS.TAB.MAP.LOC = "Map location";
+CONTACT.DETAILS.ADDRESS.NOT.FOUND = "Address not found";
+
+error.loading.profile = "Loading profile data failed";
+ERROR.PROFILE.NORECORDS = "No enum data found";
+error = "Error";
+STATUS = "Status";
+ERROR.NO.NETWORK = "No network connection";
+
+EMAIL.TITLE = "Compose";
+EMAIL.BUTTON.SEND = "Encrypt";
+
+EMAIL.MESSAGE.PRE = "-------encrypted message-------";
+EMAIL.MESSAGE.POST = "--------------------------------------------";
+EMAIL.MESSAGE.FOOTER = "This message is encrypted with iEnum";
+EMAIL.NOT.SUPPORTED = "Email not supported by device";
+EMAIL.KEY.FAILED = "Loading public key failed";
+EMAIL.PLAIN.MESSAGE.FOOTER = "This message is sent with iEnum";
+
+
+MAP.BUTTON.SHOWLOCATION = "My location";
+MAP.PIN.CURRENT.LOCATION = "Current location";
+MAP.TITLE = "Location";
+
+
+ACTIVITY.LOADING = "Loading";

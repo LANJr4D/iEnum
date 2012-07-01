@@ -1,0 +1,31 @@
+
+/* EnumServices */
+"sip" = "SIP VoIP call";
+"h323" = "H.323 VoIP call";
+"voice:tel" = "Voice Call";
+"sms:tel" = "SMS Message";
+"ems:tel" = "EMS Message";
+"mms:tel" = "MMS Message";
+"sms:mailto" = "SMS Message";
+"ems:mailto" = "EMS Message";
+"mms:mailto" = "MMS Message";
+"email:mailto" = "Email";
+"web:http" = "web:http";
+"web:https" = "web:https";
+"ft:ftp" = "FTP File Server Link";
+"fax:tel" = "Fax";
+"x-voice:aim" = "AIM Voice";
+"x-voice:skype" = "Skype Voice";
+"x-voice:gtalk" = "Googletalk Voice";
+"x-im:aim" = "AIM IM";
+"x-im:icq" = "ICQ IM";
+"x-im:ymsgr" = "Yahoo! Messenger IM";
+"x-im:msnim" = "MSN IM";
+"x-im:xmpp" = "XMPP IM";
+"x-im:skype" = "Skype IM";
+"x-crypto:data:8210" = "Encrypted";
+
+/* Non-Terminal NAPTR */
+"ntn" = "Go To";
+
+

@@ -1,0 +1,72 @@
+/* 
+   Localizable.strings
+   iEnum
+
+   Created by Maarten Wullink on 12-05-10.
+   Copyright 2010 SIDN. All rights reserved.
+ */
+
+
+HOME.TAB.TITLE = "Home";
+HOME.BUTTON.REGISTER = "Registreer je eigen enum";
+HOME.BUTTON.REGISTER.REGISTRARS.TITLE = "Registrar overzicht";
+HOME.BUTTON.REGISTER.REGISTRARS.URL = "http://www.enum.nl/nl/registreren/overzicht-registrars.html";
+
+CONTACTS.TAB.TITLE = "Contacten";
+
+CONTACTS.DETAILS.TITLE = "Details";
+
+CONTACT.NUMBER.SELECT.TITLE = "Selecteer nummer";
+
+CONTACT.NUMBER.SELECT.HOME = "Prive";
+CONTACT.NUMBER.SELECT.HOME.FAX = "Privefax";
+CONTACT.NUMBER.SELECT.MAIN = "Hoofdnr";
+CONTACT.NUMBER.SELECT.MOBILE = "Mobiel";
+CONTACT.NUMBER.SELECT.PAGER = "Pager";
+CONTACT.NUMBER.SELECT.WORK = "Werk";
+CONTACT.NUMBER.SELECT.WORK.FAX = "Werkfax";
+CONTACT.NUMBER.SELECT.OTHER = "Anders";
+
+
+LOOKUP.TAB.TITLE = "Zoeken";
+LOOKUP.TAB.DEFAULT.SEARCH.TEXT = "telefoonnummer";
+
+SETTINGS.TAB.TITLE = "Instellingen";
+SETTINGS.BUTTON.SAVE = "Bewaar instellingen";
+SETTINGS.DNS.SERVER = "DNS server";
+SETTINGS.SUFFIX = "DNS suffix";
+SETTINGS.COUNTRY = "Land code";
+SETTINGS.DNS.SERVER.ENTER = "Voer DNS server in";
+SETTINGS.SUFFIX.ENTER = "Voer DNS suffix in";
+SETTINGS.COUNTRY.ENTER = "Voer Landcode in";
+
+
+CONTACT.DETAILS.TAB.SERVICES = "Diensten";
+CONTACT.DETAILS.TAB.WEB.LOC = "Web locaties";
+CONTACT.DETAILS.TAB.SEC.EMAIL = "Beveiligde e-mail";
+CONTACT.DETAILS.TAB.ADDRESS = "Adres (vcard)";
+CONTACT.DETAILS.TAB.MAP.LOC = "Kaart locatie";
+CONTACT.DETAILS.ADDRESS.NOT.FOUND = "Geen adres gevonden";
+
+error.loading.profile = "Laden profile data mislukt";
+ERROR.PROFILE.NORECORDS = "Geen enum informatie gevonden";
+error = "Fout";
+STATUS = "Status";
+ERROR.NO.NETWORK = "Geen netwerk verbinding";
+
+
+EMAIL.TITLE = "Opstellen";
+EMAIL.BUTTON.SEND = "Versleutel";
+
+EMAIL.MESSAGE.PRE = "----------versleuteld bericht----------";
+EMAIL.MESSAGE.POST = "----------------------------------------------";
+EMAIL.MESSAGE.FOOTER = "Dit bericht is versleuteld met iEnum";
+EMAIL.NOT.SUPPORTED = "Email ondersteund door device";
+EMAIL.KEY.FAILED = "Laden van de public key is mislukt";
+EMAIL.PLAIN.MESSAGE.FOOTER = "Dit bericht is verstuurd met iEnum";
+
+MAP.BUTTON.SHOWLOCATION = "Mijn locatie";
+MAP.PIN.CURRENT.LOCATION = "Huidige locatie";
+MAP.TITLE = "Locatie";
+
+ACTIVITY.LOADING = "Laden";
